@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 liver_disease/draft
-liver_disease/train.csv
-liver_disease/test.csv
+accomodation_price_forecast/draft
+train.csv
+test.csv
